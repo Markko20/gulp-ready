@@ -10,7 +10,7 @@
                 "/assets/css/app.scss"
             ],
             "script": [
-                "/assets/js/app.js"
+                "/assets/js/**.js"
             ],
             "image": [
                 "/assets/img/**/*.*"
