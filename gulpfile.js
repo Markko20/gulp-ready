@@ -274,7 +274,7 @@ function font() {
  * Clean
  */
  function clean(){
-	return del([path.dist.distPath]);
+	return del([path.dist.fromDel1],[path.dist.fromDel2]);
 }
 
 /**

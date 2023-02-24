@@ -25,7 +25,9 @@
             "style": "/assets/css/",
             "script": "/assets/js/",
             "image": "/assets/img/",
-            "font": "/assets/fonts/"
+            "font": "/assets/fonts/",
+            "fromDel1": "/assets",
+            "fromDel2": "**.html"
         }
     }
 }
